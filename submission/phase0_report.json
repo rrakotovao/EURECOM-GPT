@@ -1,0 +1,24 @@
+{
+  "phase": "0",
+  "environment": {
+    "cloud_shell": true
+  },
+  "python": {
+    "version": "3.12.3",
+    "ok": true
+  },
+  "gcloud": {
+    "account": "riana.rakotovao@eurecom.fr",
+    "project": "project-e0035111-0ffb-4581-a8c",
+    "error": null
+  },
+  "docker": {
+    "version": "Docker version 29.8.2, build 7fc2dff",
+    "present": true
+  },
+  "git": {
+    "remote": "https://github.com/rrakotovao/EURECOM-GPT.git",
+    "is_github": true,
+    "slug": "rrakotovao/EURECOM-GPT"
+  }
+}
