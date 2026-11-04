@@ -1,0 +1,30 @@
+{
+  "phase": "2",
+  "environment": {
+    "colab": true
+  },
+  "attention": {
+    "naive_ms": 238.437,
+    "vectorized_ms": 0.884,
+    "speedup": 269.73
+  },
+  "threads": {
+    "1": 2631.728,
+    "2": 1878.055,
+    "4": 2153.654,
+    "8": 2555.312
+  },
+  "devices": {
+    "cpu_ms": 427371.3,
+    "gpu_ms": 12629.2
+  },
+  "training": {
+    "steps": 2000,
+    "final_loss": 1.4823,
+    "param_count": 4935680
+  },
+  "sample": "\nPrantagues they-dow?\n\nSecond Clown:\nThe cheek, not thou be here wherews.\n\nQUEEN ELIZABETH:\nBut our Rome: a brater, say, time givil, look, to-no,\nSo wholves, tapes accus, my betterian shall;\n'That save",
+  "model": {
+    "gcs_url": "https://storage.googleapis.com/project-e0035111-0ffb-4581-a8c-eurecomgpt/model.safetensors"
+  }
+}
