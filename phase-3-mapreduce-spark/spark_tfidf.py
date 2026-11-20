@@ -28,6 +28,7 @@ def term_freq(docs_rdd):
     """
     # TODO: flatMap each (doc_id, text) to ((term, doc_id), 1) pairs via tokenize(text),
     #       then reduceByKey to sum the counts.
+    
     raise NotImplementedError("Phase 3: implement term_freq()")
 
 
